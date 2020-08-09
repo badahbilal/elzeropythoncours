@@ -1,4 +1,4 @@
-""" # -----------------------------
+# -----------------------------
 # -- Tuple --
 # -----------
 # [1] Tuple Items Are Enclosed in Parentheses
@@ -40,7 +40,6 @@ myAwesomeTupleFive = ("Osama", "Osama", 1, 2, 3, 100.5, True)
 print(myAwesomeTupleFive[1])
 print(myAwesomeTupleFive[-1])
 
- """
 
 # -----------
 # -- Tuple --
